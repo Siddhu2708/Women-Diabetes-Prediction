@@ -1,0 +1,7 @@
+numpy
+pandas
+pickle
+streamlit
+streamlit-option-menu
+scikit-learn
+protobuf
